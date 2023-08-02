@@ -1,1 +1,1 @@
-# Hydra_VR
+# HydraVR
